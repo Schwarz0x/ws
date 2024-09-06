@@ -65,7 +65,7 @@ def print_project_info(data):
             print(f"{Back.{background2.upper().replace('#', '')}}{Fore.{color2.upper().replace('#', '')}}{f.renderText(text)}{Style.RESET_ALL}")
 
 def main():
-    github_url = 'https://github.com/your-username/your-repo-name'
+    github_url = 'https://github.com/Schwarz0x/ws.git'
     local_version = get_local_version()
     remote_version = get_remote_version(github_url)
     if remote_version:
