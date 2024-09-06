@@ -1,0 +1,30 @@
+{
+    "project_name": {
+        "text": "My Project",
+        "color": "#FF69B4",
+        "background": "#FFFFFF",
+        "color2": "#FFC0CB",
+        "background2": "#808080"
+    },
+    "version": {
+        "text": "1.0",
+        "color": "#008000",
+        "background": "#000000",
+        "color2": "#FFFF00",
+        "background2": "#808080"
+    },
+    "company": {
+        "text": "My Company",
+        "color": "#0000FF",
+        "background": "#FFFF00",
+        "color2": "#008000",
+        "background2": "#FFFFFF"
+    },
+    "website_url": {
+        "text": "https://mycompany.com",
+        "color": "#FF0000",
+        "background": "#00FFFF",
+        "color2": "#0000FF",
+        "background2": "#FFFFFF"
+    }
+}
